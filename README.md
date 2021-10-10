@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Renata-Thomazelli](https://github.com/Renata-Thomazelli)
 
-- 📫 How to reach me **recalesi@yahoo.com.br**
+- 📫 How to reach me **rthomaztecnologiadedados@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/renatathomazelli/](https://www.linkedin.com/in/renatathomazelli/)
 
