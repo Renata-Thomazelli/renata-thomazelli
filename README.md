@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects and Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Renata-Thomazelli](https://github.com/Renata-Thomazelli)
+- 👨‍💻 All of my projects are available at [https://recalesi.wixsite.com/renatathomazelli/portif%C3%B3lio](https://recalesi.wixsite.com/renatathomazelli/portif%C3%B3lio)
 
 - 📫 How to reach me **rthomaztecnologiadedados@gmail.com**
 
