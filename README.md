@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://recalesi.wixsite.com/renatathomazelli/portif%C3%B3lio](https://recalesi.wixsite.com/renatathomazelli/portif%C3%B3lio)
 
-- 📫 How to reach me **rthomaztecnologiadedados@gmail.com**
+- 📫 How to reach me **recalesi@yahoo.com.br**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/renatathomazelli/](https://www.linkedin.com/in/renatathomazelli/)
 
