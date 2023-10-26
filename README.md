@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects and Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://recalesi.wixsite.com/renatathomazelli/portif%C3%B3lio](https://recalesi.wixsite.com/renatathomazelli/portif%C3%B3lio)
+- 👨‍💻 All of my projects are available at [https://renata-thomazelli.github.io/portfolio/](https://renata-thomazelli.github.io/portfolio/)
 
-- 📫 How to reach me **recalesi@yahoo.com.br**
+- 📫 How to reach me **recalesi@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/renatathomazelli/](https://www.linkedin.com/in/renatathomazelli/)
 
